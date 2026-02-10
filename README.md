@@ -2,10 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhu1212&label=Profile views&color=0e75b6&style=flat" alt="vibhu1212" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhu1212" alt="vibhu1212" /></a> </p>
-
 - 🔭 I'm currently working on **CRM+POS management app and AI Automated survery agent**
 
 - 🌱 I'm currently learning **Machine learning **
