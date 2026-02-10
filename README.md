@@ -2,8 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhu1212&label=Profile views&color=0e75b6&style=flat" alt="vibhu1212" /> </p>
-
 - 🔭 I'm currently working on **CRM+POS management app and AI Automated survery agent**
 
 - 🌱 I'm currently learning **Machine learning **
